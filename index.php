@@ -57,7 +57,7 @@
         <div class="col-md-6 col-lg-4">
           <div class="card-feature text-center">
             <div class="feature-icon">
-              <img src="img/home/png/004-home-page.png" alt="">
+              <img src="img/004-home-page.png" alt="">
             </div>
             <h3>Transfert de domaine gratuit</h3>
             <!-- <p>Let place fly together third creature night at called fowl fill upon the grass </p> -->
@@ -67,7 +67,7 @@
         <div class="col-md-6 col-lg-4">
           <div class="card-feature text-center">
             <div class="feature-icon">
-              <img src="img/home/png/003-pencil.png" alt="">
+              <img src="img/003-pencil.png" alt="">
             </div>
             <h3>Facile à personnaliser</h3>
            <!--  <p>Let place fly together third creature night at called fowl fill upon the grass </p> -->
@@ -78,7 +78,7 @@
         <div class="col-md-6 col-lg-4">
           <div class="card-feature text-center">
             <div class="feature-icon">
-              <img src="img/home/png/001-unlock.png" alt="">
+              <img src="img/001-unlock.png" alt="">
             </div>
             <h3>Serveur sécurisé</h3>
             <!-- <p>Let place fly together third creature night at called fowl fill upon the grass </p> -->
@@ -88,7 +88,7 @@
         <div class="col-md-6 col-lg-4">
           <div class="card-feature text-center">
             <div class="feature-icon">
-              <img src="img/home/png/002-shield.png" alt="">
+              <img src="img/002-shield.png" alt="">
             </div>
             <h3>Fonction de sauvegarde</h3>
             <!-- <p>Let place fly together third creature night at called fowl fill upon the grass </p> -->
@@ -99,7 +99,7 @@
         <div class="col-md-6 col-lg-4">
           <div class="card-feature text-center">
             <div class="feature-icon">
-              <img src="img/home/png/005-headset.png" alt="">
+              <img src="img/005-headset.png" alt="">
             </div>
             <h3>Support de chat en direct</h3>
             <!-- <p>Let place fly together third creature night at called fowl fill upon the grass </p> -->
